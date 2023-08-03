@@ -9,6 +9,7 @@ public class practice1 {
 	System.out.println("Myfirstproject");
 	System.out.println("Myfirstchange");
 	System.err.println("changed in local");
+			System.out.println("changed in server for merge");
 		}
 
 }
