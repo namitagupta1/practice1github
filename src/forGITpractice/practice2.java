@@ -17,6 +17,8 @@ public class practice2 {
 		//average = n/50
 		float avg = n/50f ;
 		System.out.println("avg =" +avg);
+		
+		System.out.println("changed");
 	}
 
 }
