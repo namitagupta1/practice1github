@@ -19,6 +19,7 @@ public class practice2 {
 		System.out.println("avg =" +avg);
 		
 		System.out.println("changed");
+		
 	}
 
 }
