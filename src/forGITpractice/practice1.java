@@ -9,6 +9,7 @@ public class practice1 {
 	System.out.println("Myfirstproject");
 	System.out.println("Myfirstchange");	
 	System.out.println("sec branch");
+	System.out.println("sec branch from server");
 		}
 
 }
